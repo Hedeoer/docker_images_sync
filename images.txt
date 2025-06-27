@@ -1,1 +1,1 @@
-elasticsearch:latest
+mcp/elasticsearch:latest
