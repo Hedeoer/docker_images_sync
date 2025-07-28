@@ -1,1 +1,1 @@
-bradleylzh/landppt:latest
+mcp/elasticsearch:latest
